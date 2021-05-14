@@ -1,0 +1,154 @@
+#title{
+	text-align: center;
+	/*background-color: #a5e1ad;*/
+	/*padding-bottom: 10px;*/
+}
+h1{
+	margin: 10px auto 0 auto;
+	padding-top: 25px; 
+	font-family: 'Sacramento', cursive;
+	color: #be0000;
+	font-size: 6.625rem;
+	font-weight: bold;
+}
+/**Nav Bar**/
+
+.nav-item{
+	padding: 0 8px;
+}
+.nav-link{
+	font-size: 1.2rem;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+.topnav:hover{
+	color: red;
+	font-size: 1.3rem;
+}
+
+.intro{
+	padding-bottom: 30px;
+	color: #fff;
+	font-size: 2rem;
+}
+.top-container{
+	position: relative;
+}
+.profile-pic{
+	border-radius: 30%;
+	padding-top: 80px;
+	margin-bottom: 0px;
+	width: 20%;
+}
+/*aboutme*/
+
+#About-me{
+	padding-top: 50px;
+	text-align: center;
+	color: #fff;
+}
+h2{
+	margin-top: 0px; 
+   padding-bottom: 20px;
+   font-family: 'Goblin One', cursive;
+   font-size: 3rem;
+}
+.about{
+	width: 85%;
+	margin: auto;
+	line-height: 2;
+	font-size: 1.4rem;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 30px;
+}
+
+/**Academics**/
+
+#academics{
+	padding-top: 50px;
+	text-align: center;
+}
+h3{
+	font-size: 3rem;
+	color: #04009a;
+	font-family: 'Sacramento',cursive;
+	font-weight: bold;
+	padding-top: 0px;
+}
+.education{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 1.5rem;
+	font-weight: bold;
+	width: 70%;
+	margin: auto;
+	color: yellow;
+}
+.education-image{
+	border-radius: 25%;
+	width: 15%;
+}
+
+/*skills*/
+
+
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.C {width: 90%; background-color: #e1701a;}
+.python {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #04009a;}
+.html {width: 60%; background-color: #eeb76b;}
+.css {width: 70%; background-color: #000}
+
+/**Training**/
+
+#training{
+	text-align: center;
+	padding-top: 80px;
+}
+.training-link{
+	text-decoration: none;
+	padding-bottom: 20px;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+.training-link:hover{
+	color: red;
+}
+h4{
+	font-size: 2rem;
+	color: #fff;
+}
+
+/**Contact-Me**/
+
+#Contact-Me{
+	background-color: #000;
+	color: #fff;
+}
+
+/**footer**/
+
+.footer-link
+{
+	padding: 40px;
+	margin-bottom: 10px; 
+}
+.footer-link:hover{
+	color: red;
+	font-size: 1.5rem;
+}
+.copyright{
+	padding: 80px 0;
+}
